@@ -4,7 +4,7 @@ Configure A Basic Network and Inspect PDUs.
 
 ## Topology 
 
-
+![image](https://user-images.githubusercontent.com/17693494/153788855-945aa875-12fa-4d3e-82b3-e6629b70bd2a.png)
 
 Configure R1 hostname and set interface Gigabit 0/0/0 to ip address 10.10.10.1/24
 
