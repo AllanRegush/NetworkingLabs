@@ -14,7 +14,7 @@ Set up a PC
 
 Set up a HTTP Server
 
-| TCP/IP     |      OSI      |   Memoization  |
+| TCP/IP     |      OSI      |   Memorization  |
 |:----------:|:-------------:|:--------------:|
 | Application|  Application  | All            |
 |            |  Presentation | People         |
